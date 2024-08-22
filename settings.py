@@ -4,7 +4,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
       
         ## Path definition of templates folder .
-        'DIRS': [BASE_DIR/'templates'],
+        'DIRS': [],
       
         'APP_DIRS': True,
         # options to configure
