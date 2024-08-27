@@ -4,3 +4,4 @@ django
 csv
 numpy
 oracle
+mysql
